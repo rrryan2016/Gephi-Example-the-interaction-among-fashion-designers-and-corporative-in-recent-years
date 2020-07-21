@@ -38,3 +38,22 @@ For brands,
 |Under Armour        |0.182 |    Celine              |0.174|
 |Hiroshi Fujiwara    |0.167   |  Calvin Klein        |0.162|
 
+## Update 2: add degree centrality code to analyze designer/brand importance in network 
+Click into degree_centrality folder and run degree_centrality.py, here is some interesting results 
+|        Node        | Degree |
+|:------------------:|:------:|
+|        Nike        |  0.235 |
+|        Dior        |  0.132 |
+|     Kanye West     |  0.118 |
+| Uniqlo             | 0.103  |
+| Adidas             | 0.103  |
+| Converse           | 0.088  |
+| ...                | ...    |
+| Pharrell Williams  | 0.015  |
+| Masion Margiela    | 0.015  |
+| Kiko Kostadinov    | 0.015  |
+| FengChen Wang      | 0.015  |
+| Errolson Hugh      | 0.015  |
+| Anthony Vaccarello | 0.014  |
+
+
